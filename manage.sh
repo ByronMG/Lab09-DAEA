@@ -1,3 +1,5 @@
+git clone https://github.com/MariaCutipa/DAEAlab9.git
+cd DAEAlab9
 git clone https://github.com/MicrosoftDocs/mslearn-blazor-navigation.git BlazingPizza
 
 cd BlazingPizza
